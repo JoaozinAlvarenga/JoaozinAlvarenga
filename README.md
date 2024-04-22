@@ -2,6 +2,7 @@
 ### Ciêntista da Computação
 ### Viciado em programar 🤩
 
+## Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaoalvarenga.br?igsh=bWNubXMzMDJzeGU=)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-alvarenga-botelho-088a972b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaozinAlvarenga/Meu-portfolio)
