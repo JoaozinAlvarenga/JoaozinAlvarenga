@@ -26,5 +26,5 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da programaç�
 ## E-mails para contato ✉️
 - joaomais20157@gmail.com
 - joaogabrielalvarenga1234@gmail.com
-  
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9223fe&height=120&section=footer"/>
