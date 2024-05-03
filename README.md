@@ -27,6 +27,4 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da programaç�
 - joaomais20157@gmail.com
 - joaogabrielalvarenga1234@gmail.com
 
-  ![Snake animation](https://github.com/JoaozinAlvarenga/JoaozinAlvarenga/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9223fe&height=120&section=footer"/>
