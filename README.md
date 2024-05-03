@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaozinAlvarenga/Meu-portfolio)
 
 ### GitHub Stats 🚀
-![JoaozinAlvarenga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaozinAlvarenga&show_icons=true&theme=dracula)
+![JoaozinAlvarenga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaozinAlvarenga&show_icons=true&theme=jolly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaozinAlvarenga&hide_progress=true)
 
